@@ -1,0 +1,9 @@
+{
+  "name": "Omni AI",
+  "description": "Omni AI - A full-stack autonomous AI platform featuring Live API, Video Generation, Image Generation, Search/Maps Grounding, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
